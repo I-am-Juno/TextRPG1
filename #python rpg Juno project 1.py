@@ -67,14 +67,14 @@ def start_game():
 
 
 #### Map ####
-#player starts at b2#
+#player starts at f1#
    
 ------------- 			----
 |a1|a2|a3|a4|//////////	|f1|
 ------------- 			----
 |b1|b2|b3|b4|
 ------------- 
-#need railroad to accesss these parts
+#need railroad to accesss these parts#
 ------------
 |c1|c2|c3|c4| 
 -------------  
